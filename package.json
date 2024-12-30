@@ -1,0 +1,25 @@
+{
+  "name": "db_demo",
+  "version": "1.0.0",
+  "description": "simple application to demonstrate how to connect to a db from nodesjs and express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js", 
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garycuthbert/node_express_maria.git"
+  },
+  "author": "Gary Cuthbert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garycuthbert/node_express_maria/issues"
+  },
+  "homepage": "https://github.com/garycuthbert/node_express_maria#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
