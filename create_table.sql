@@ -1,3 +1,4 @@
+drop table `user`;
 CREATE TABLE `user` (
     `id` int(11) NOT NULL AUTO_INCREMENT COMMENT 'Primary Key',
     `create_time` datetime DEFAULT CURRENT_TIMESTAMP COMMENT 'Create Time',

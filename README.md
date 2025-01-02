@@ -8,4 +8,4 @@ https://www.youtube.com/watch?v=krTbf0O-BCo
 4. Connect the app to mariadb
 5. GET route to load a user
 6. POST route to add a new user
-7. Encrypting the password so it's not clear text
+7. Encrypting the password so it's not clear text - using bcrypt
